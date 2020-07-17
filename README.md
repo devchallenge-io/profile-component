@@ -48,7 +48,7 @@ Seu desafio é criar um componete de um perfil de um usuário! O modelo final es
 1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
 2 - Leia as instruções no readme.md<br>
 3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
-4 - Compartilhe seu resultado com a comunidade!<br>
+4 - Compartilhe seu resultado com a comunidade! #devchallenge
 
 # Dicas
 
@@ -71,6 +71,13 @@ Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
+Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
 Desafio criado por  <a href="https://www.linkedin.com/in/lorenagmontes/">Lorena</a> :)
+
+# Comunidade DevChallenge
+Site: https://www.devchallenge.com.br/ <br>
+Discord: https://discord.gg/yvYXhGj <br>
+Linkedin: https://www.linkedin.com/company/devchallenge/<br>
+Twitter: https://twitter.com/dev_challenge<br>
+Instagram: https://www.instagram.com/devchallenge/<br>
